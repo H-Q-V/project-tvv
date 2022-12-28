@@ -1,0 +1,9 @@
+@media (max-width: 991px) {
+    .bars-header {
+        color: #fff;
+    }
+
+    .introduce {
+        display: none;
+    }
+}
